@@ -1,6 +1,6 @@
 # Hi, I'm Sanjjith 👋
 
-**Applied GenAI Developer** — I build RAG pipelines and AI agents,
+**Applied GenAI Developer**  - I build RAG pipelines and AI agents,
 and I ship the projects, not just the ideas.
 
 🛠️ I build in public: every week I build something, break something,
