@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Sanjjith 👋
 
-<!--
-**Sanjjith03/Sanjjith03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Applied GenAI Developer** — I build RAG pipelines and AI agents,
+and I ship the projects, not just the ideas.
 
-Here are some ideas to get you started:
+🛠️ I build in public: every week I build something, break something,
+and learn out loud. The working projects are pinned below 👇
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently building
+- Document Q&A app with source citations (RAG)
+- Autonomous research agent with tool use + guardrails
+- Small, useful AI tools and SaaS experiments
+
+### 🧰 Stack
+`Languages`   Python · JavaScript · SQL
+`Backend`     FastAPI · REST APIs
+`AI / GenAI`  RAG · LLM APIs · LangChain · Prompt Engineering
+`Frontend`    Next.js · React
+
+### 🔗 Links
+- Live projects → see pinned repos below
+- LinkedIn → https://www.linkedin.com/in/sanjjith/
+- Email → sanjjithsivashanmugam@gmail.com
