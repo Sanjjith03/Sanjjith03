@@ -20,4 +20,4 @@ and learn out loud. The working projects are pinned below 👇
 ### 🔗 Links
 - Live projects → see pinned repos below
 - LinkedIn → https://www.linkedin.com/in/sanjjith/
-- Email → sanjjithsivashanmugam@gmail.com
+- Email → mailtosanjjithsivashanmugam@gmail.com
